@@ -1,4 +1,5 @@
 export default function Home() {
+
   return (
     <main className="grid grid-cols-12 min-h-screen bg-amber-200">
       <div className="col-span-3 col-start-10 flex flex-col justify-center p-4 bg-white">
