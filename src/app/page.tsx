@@ -2,9 +2,9 @@ export default function Home() {
 
   return (
     <main className="grid grid-cols-12 min-h-screen bg-amber-200">
+      <h1>BoxChat</h1>
       <div className="col-span-3 col-start-10 flex flex-col justify-center p-4 bg-white">
         <div className="flex items-center justify-center flex-col mb-4">
-          <h1>BoxChat</h1>
           <p>Welcome to BoxChat!</p>
         </div>
         <div className="flex items-center justify-center flex-col mb-4">
