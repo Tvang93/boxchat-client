@@ -16,7 +16,7 @@ const LoginPage = () => {
         />
         <button className="bg-slate-400 w-[50%] rounded">Submit</button>
       </div>
-      <div className="flex  justify-center flex-col">
+      <div className="flex items-center justify-center flex-col">
         <h3>No Account?</h3>
         <button className="text-blue-500">
           <u>Create an Account</u>
