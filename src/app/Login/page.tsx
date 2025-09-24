@@ -12,7 +12,7 @@ const LoginPage = () => {
         <input
           className="border-1 ps-1 rounded mb-2"
           type="text"
-          placeholder="Password"
+          placeholder=""
         />
         <button className="bg-slate-400 w-[50%] rounded">Submit</button>
       </div>
